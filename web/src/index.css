@@ -1,0 +1,25 @@
+body {
+  margin:0;
+
+}
+header {
+  background:#333;
+  color:white;
+  padding: 2rem 5vw;
+}
+main {
+  display:block;
+  margin: 5rem auto;
+  max-width: 90vw;
+  width: 500px;
+}
+nav {
+  display:flex;
+  gap: 1rem;
+}
+
+nav a {
+  display:flex;
+  gap: 12;
+  color:white;
+}
